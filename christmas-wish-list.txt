@@ -8,6 +8,10 @@ RIO:
 SCOTT:
 
 AARON:
+Friends
+Family
+Food
+Tablet?
 
 NINA:
 =======
